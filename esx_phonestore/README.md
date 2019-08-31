@@ -1,7 +1,5 @@
 # esx_phonestore
 
-# Made by kreddy :)
-
 ## Download & Installation
 
 ### Using [fvm](https://github.com/qlaffont/fvm-installer)
@@ -29,7 +27,7 @@ start esx_shops
 
 # Legal
 ### License
-esx_phoneshop - phoneshop'
+esx_phonestore - phonestore'
 
 Copyright (C) 2017-2019 kreddy
 
